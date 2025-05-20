@@ -17,7 +17,7 @@
  - 🗃️File Format - .pbix for development and .png for dashboard previews.
 
 
-
+# Snapshot Of Dashboard : https://github.com/AyanDebnath88/Awesome-Choco-Sales-Dashboard/blob/main/Dashboard%20Snapshot.png
 
 
 ### Data Source
