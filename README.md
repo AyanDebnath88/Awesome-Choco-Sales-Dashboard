@@ -1,7 +1,14 @@
 # Awesome-Choco-Sales-Dashboard
+
+
 ##🍫 Awesome Chocolates Power BI Dashboard for Finance KPI's
- - A dynamic, interactive data visualization tool built to explore certain Finance KPI's like Total Actual Sales , Sales by Month , Sales by Team & Employee , Variances & YTD.
+ - A dynamic, interactive data visualization tool built to explore certain Finance KPI's .
  - The Dynamic Dashboard allows us to see any performance related imformation at a glance by the various Teams & Employees
+ - KPI's answered - Total Actual Sales , Sales by Month , Sales by Team & Employee , Variances , Variance% , YTD Values , YoY , MTD , Target Reached Month COunt
+
+
+
+
 ## Tech Stack used to create this Dashboard
  - 📊Power BI Desktop - Main Data Visualization platform for the report creation
  - 📉POwer Query - Data Transformation and cleaning layer for reshaping and preparing the data.
